@@ -1,0 +1,6 @@
+[submodule "rss_reader_backend"]
+	path = rss_reader_backend
+	url = git@github.com:shu8hamrajput/rss_reader_backend.git
+[submodule "rss_reader_ui"]
+	path = rss_reader_ui
+	url = git@github.com:shu8hamrajput/rss_reader_ui.git
